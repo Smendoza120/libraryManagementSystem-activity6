@@ -11,6 +11,8 @@ public class Menu {
     }
 
     public void mostrarMenuPrincipal() {
+        System.out.println("--- Harold Sanchez: 1233496433 ---");
+        System.out.println("--- Menu principal ---");
         System.out.println("1. Menu libreria");
         System.out.println("2. Menu usuarios");
         System.out.println("3. Gestionar relaciones");
